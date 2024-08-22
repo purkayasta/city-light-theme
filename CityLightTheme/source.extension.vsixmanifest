@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="CityLightTheme.21eea856-26f1-4b53-8349-a3150d67a9cc" Version="1.0" Language="en-US" Publisher="purkayasta" />
+        <Identity Id="CityLightTheme.21eea856-26f1-4b53-8349-a3150d67a9cc" Version="1.0" Language="en-US" Publisher="Pritom Purkayasta" />
         <DisplayName>CityLightTheme</DisplayName>
         <Description xml:space="preserve">City Light Theme for Visual Studio</Description>
         <Icon>icon.png</Icon>
-        <Tags>citylight, citylighttheme, neon, blue</Tags>
+        <Tags>citylight, citylighttheme, neon, blue, vs2022, visual studio</Tags>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
